@@ -1,0 +1,13 @@
+c:\users\user\documents\visual studio 2017\Projects\RadioStationApp\RadioStationApp\bin\Debug\RadioStationApp.exe.config
+c:\users\user\documents\visual studio 2017\Projects\RadioStationApp\RadioStationApp\bin\Debug\RadioStationApp.exe
+c:\users\user\documents\visual studio 2017\Projects\RadioStationApp\RadioStationApp\bin\Debug\RadioStationApp.pdb
+c:\users\user\documents\visual studio 2017\Projects\RadioStationApp\RadioStationApp\bin\Debug\Interop.WMPLib.dll
+c:\users\user\documents\visual studio 2017\Projects\RadioStationApp\RadioStationApp\bin\Debug\AxInterop.WMPLib.dll
+c:\users\user\documents\visual studio 2017\Projects\RadioStationApp\RadioStationApp\obj\Debug\Interop.WMPLib.dll
+c:\users\user\documents\visual studio 2017\Projects\RadioStationApp\RadioStationApp\obj\Debug\AxInterop.WMPLib.dll
+c:\users\user\documents\visual studio 2017\Projects\RadioStationApp\RadioStationApp\obj\Debug\RadioStationApp.csproj.ResolveComReference.cache
+c:\users\user\documents\visual studio 2017\Projects\RadioStationApp\RadioStationApp\obj\Debug\RadioStationApp.Form1.resources
+c:\users\user\documents\visual studio 2017\Projects\RadioStationApp\RadioStationApp\obj\Debug\RadioStationApp.Properties.Resources.resources
+c:\users\user\documents\visual studio 2017\Projects\RadioStationApp\RadioStationApp\obj\Debug\RadioStationApp.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2017\Projects\RadioStationApp\RadioStationApp\obj\Debug\RadioStationApp.exe
+c:\users\user\documents\visual studio 2017\Projects\RadioStationApp\RadioStationApp\obj\Debug\RadioStationApp.pdb
